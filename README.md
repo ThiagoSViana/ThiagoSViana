@@ -31,9 +31,4 @@ Ph.D. candidate in UFRN / BAM - Germany.
 </a>
 <a href="mailto:thiago.smartins@al.infnet.edu.br"  >
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a href="mailto:thiagos874@agmail.com"  >
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://medium.com/@andcordeiro"  >
-    <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
