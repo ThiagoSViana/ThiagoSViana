@@ -1,7 +1,7 @@
 ### Oláá! Eu sou Thiago Viana! Hi there! I'm Thiago Viana!
 
 <h2>
-        <img src="https://media1.giphy.com/media/HUplkVCPY7jTW/giphy.gif?cid=ecf05e470rq1aoxmoyvofv8xdqzfznqpcatsfb6fc5uyewhy&rid=giphy.gif&ct=g" width="30px">
+        <img src="https://media1.giphy.com/media/HUplkVCPY7jTW/giphy.gif?cid=ecf05e470rq1aoxmoyvofv8xdqzfznqpcatsfb6fc5uyewhy&rid=giphy.gif&ct=g" width="400px">
 </h2>
 
 What I am? A scientist!
