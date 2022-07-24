@@ -4,6 +4,16 @@
         <img src="https://media1.giphy.com/media/HUplkVCPY7jTW/giphy.gif?cid=ecf05e470rq1aoxmoyvofv8xdqzfznqpcatsfb6fc5uyewhy&rid=giphy.gif&ct=g" width="400px">
 </h2>
 
+<h2>My contributions 💡</h2>
+
+<div align="center">
+  <a href="https://github.com/ThiagoSViana">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ThiagoSViana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSViana&layout=compact&langs_count=7&theme=dark"/>
+</div>
+</div>
+
+
 What I am? A scientist!
 MIT in Data Science, Data Analysis, and Machine Learning by Infnet Institute and, MSc in Materials Science and Engineering by UFRN.
 Ph.D. candidate in UFRN / BAM - Germany.
