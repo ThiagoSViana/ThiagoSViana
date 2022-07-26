@@ -34,7 +34,7 @@ Ph.D. candidate in UFRN / BAM - Germany.
 <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
 
 <br>
-<h2>Find and, contact me!</h2>
+<h2>Find and contact me!</h2>
 <a href="https://www.linkedin.com/in/thiagosouzaviana/"  >
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
